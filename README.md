@@ -19,6 +19,8 @@ BITE is a vibrant, photo-first recipe sharing mobile app designed to simplify co
 Access the full interactive design here:  
 [https://www.figma.com/make/dYEggwbYmDZNh9jkDjXJws/Mobile-App-UI-Design?node-id=0-4&t=Y3mZQDt7bGqUD2iv-1](https://www.figma.com/make/dYEggwbYmDZNh9jkDjXJws/Mobile-App-UI-Design?node-id=0-4&t=Y3mZQDt7bGqUD2iv-1)
 
+Access the Project Presentation slides here:
+[https://www.canva.com/design/DAG3e8L-0WU/TONIrlrXzAHWCflobPERpQ/edit?utm_content=DAG3e8L-0WU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ## Getting Started
