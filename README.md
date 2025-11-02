@@ -13,14 +13,15 @@ BITE is a vibrant, photo-first recipe sharing mobile app designed to simplify co
 ## Project Contents
 - Complete React Native app source code  
 - Interactive Figma design prototype with full UI/UX flow  
-- Presentation slides titled **UI4ce**, detailing app features and design approach
+- Presentation slides titled **UI4ce**, detailing app features and design approach  
+- Project presentation created in Canva for detailed overview and walkthrough  
 
-## Figma Design Prototype
-Access the full interactive design here:  
-[https://www.figma.com/make/dYEggwbYmDZNh9jkDjXJws/Mobile-App-UI-Design?node-id=0-4&t=Y3mZQDt7bGqUD2iv-1](https://www.figma.com/make/dYEggwbYmDZNh9jkDjXJws/Mobile-App-UI-Design?node-id=0-4&t=Y3mZQDt7bGqUD2iv-1)
+## Design & Presentation Links
+- Figma Prototype:  
+  [BITE App Full UI Design](https://www.figma.com/make/dYEggwbYmDZNh9jkDjXJws/Mobile-App-UI-Design?node-id=0-4&t=Y3mZQDt7bGqUD2iv-1)  
+- Project Presentation (Canva):  
+  [BITE Project Presentation](https://www.canva.com/design/DAG3e8L-0WU/TONIrlrXzAHWCflobPERpQ/edit?utm_content=DAG3e8L-0WU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Access the Project Presentation slides here:
-[https://www.canva.com/design/DAG3e8L-0WU/TONIrlrXzAHWCflobPERpQ/edit?utm_content=DAG3e8L-0WU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ## Getting Started
@@ -44,15 +45,10 @@ Contributions and feedback are welcome! Please raise issues or submit pull reque
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ## Contact
 
-For any questions, contact the project maintainer at karthikrajaanand12@gmail.com
+For any questions, contact the project maintainer at [karthikrajaanand12@gmail.com]
 
 ---
 
